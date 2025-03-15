@@ -43,7 +43,7 @@ The app will be available on `` <br></br>
 
 This project was developed with the following technologies:
 <b>
-
+- Noje js
 </b>
 
 </br>
