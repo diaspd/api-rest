@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "api-rest": "file:"
+    "api-rest": "file:",
+    "fastify": "^5.2.1"
   },
   "devDependencies": {
     "typescript": "^5.8.2"
