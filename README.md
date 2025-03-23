@@ -46,6 +46,7 @@ This project was developed with the following technologies:
 - Noje js
 - Java Script
 - Type Script
+- Sqlite
 </b>
 
 </br>
