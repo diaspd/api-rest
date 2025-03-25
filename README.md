@@ -47,6 +47,7 @@ This project was developed with the following technologies:
 - Java Script
 - Type Script
 - Sqlite
+- Knex
 </b>
 
 </br>
