@@ -48,6 +48,7 @@ This project was developed with the following technologies:
 - Type Script
 - Sqlite
 - Knex
+- Fastify
 </b>
 
 </br>
