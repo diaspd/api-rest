@@ -32,7 +32,7 @@ $ npm install
 $ npm run dev
 ```
 
-The app will be available on `` <br></br>
+The app will be available on `http://localhost:3333` <br></br>
 
 ## 🌐 Methods:
 
@@ -47,6 +47,8 @@ This project was developed with the following technologies:
 - Java Script
 - Type Script
 - Sqlite
+- Knex
+- Fastify
 </b>
 
 </br>
