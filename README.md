@@ -36,6 +36,7 @@ The app will be available on `http://localhost:3333` <br></br>
 
 ## 🌐 Methods:
 - GET `http://localhost:3333/transactions`
+- GET (specific transaction) `http://localhost:3333/transactions/:id`
 - POST `http://localhost:3333/transactions` (passing on body of the requisition: {title="transaction title", amount="5000", type="credit"})
 
 
