@@ -2,6 +2,9 @@
   "name": "api-rest",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "knex": "node --no-warnings --import tsx ./node_modules/knex/bin/cli.js",
@@ -19,6 +22,7 @@
     "dotenv": "^16.4.7",
     "fastify": "^5.2.1",
     "knex": "^3.1.0",
+    "pg": "^8.14.1",
     "sqlite3": "^5.1.7",
     "zod": "^3.24.2"
   },
