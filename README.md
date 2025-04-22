@@ -58,7 +58,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 .
+💰 A project with Nodejs + Fastify, database in sqlite and query builder Knex, made to create transactions, get them and get the summary, to work on knowledge about type script, eslint, db usage, env variables, cookies, tests e2e and deploy.
 
 <br></br>
 
